@@ -9,7 +9,8 @@
     in the folder server\RoomMeetingReservation
 	loucher the server (Déboger-Exécuter sans deboger)
   2- seconde client
-    in the folder client\meeting-room-reservation
+    in the folder font\
+	yarn  to install all package and depency
 	loucher the client (yarn start)
 	be sure the client point to the good port http://localhost:8000/
 
